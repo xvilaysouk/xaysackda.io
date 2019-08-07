@@ -7,16 +7,19 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "R Lessons"
+      icon: fa-chalkboard
+      href: RLessons.html
     - text: "About"
-      icon: fa-user 
+      icon: fa-at 
       href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
+    - text: "CV and Publications"
+      icon: fa-book
       href: CV.html
+    - text: "Research Topics"
+      icon: fa-book
+      href: research.html
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
-      href: mailto:xaysackda.vls@gmail.com                   # CHANGE HERE 
     - text: "Google Scholar"
       icon: fa-graduation-cap   
       href: https://scholar.google.co.jp/citations?hl=en&user=uFI9dkMAAAAJ      # CHANGE HERE 

@@ -1,8 +1,15 @@
 ---
 title: "About me"
 ---
-
-## Under Construction ##
-```{r, out.width='10%', fig.align='left', echo=FALSE}
-knitr::include_graphics('2019-07-30.png')
+```{r, out.width='10%', fig.align='center', echo=FALSE}
+knitr::include_graphics('./img/ritsumei-logo.png')
 ```
+
+<div align="center">
+Xaysackda VILAYSOUK (PhD) | Senior Researcher </br>
+A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.ac.jp) </br>
+1-1-1 Noji-Higashi, Kusatsu, Shiga 525-8577 Japan </br>
+E: xaysackd@fc.ritsumei.ac.jp </br>
+E: xaysackda.vls@gmail.com </br>
+W: http://www.ritsumei.ac.jp/se/rv/hashimoto/index_e.html
+</div>

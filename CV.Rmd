@@ -1,12 +1,42 @@
 ---
-title: "Xaysackda's CV"
-
+title: "Xaysackda's CV and Publications"
 ---
 
-```{r, out.width='15%', fig.align='left', echo=FALSE}
+```{r, out.width='15%', fig.align='center', echo=FALSE}
 knitr::include_graphics('2019-07-30.png')
 ```
 
-<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+<div align="center">
+Xaysackda VILAYSOUK (PhD) | Senior Researcher </br>
+A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.ac.jp) </br>
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>	
+</div>
 
-Please feel free to contact me!
+	
+
+# Education
+
++ Ph.D in Systems Innovation from Graduate School of Engineering/The University of Tokyo, Tokyo, Japan  04/2016 – 03/2019
++ M.Sc in Environmental and Technology from Sirindhorn International Institute of Technology (SIIT)/Thammasat University, Pathum Thani, Thailand  10/2012 - 01/2015
++ B.Eng in Environmental Engineering from Faculty of Engineering/National University of Laos, Vientiane, Lao PDR   10/2007 – 08/2012
+
+# __Publications__ 
+#### Journals Articles
+1. __**Xaysackda Vilaysouk**__, Heinz Schandl, Shinsuke Murakami: A comprehensive material flow account for Lao PDR to inform environmental and sustainability policy. **Journal of Industrial Ecology**, 2019 [DOI: /doi.org/10.1111/jiec.12764](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.12764) [Download <i class="fas fa-file-pdf"></i>](./pdf/20180209_private_sharing_Comprehensive MFA for Lao PDR to Inform Environmental and Sustainability Policy.pdf)
+2. __**Xaysackda Vilaysouk**__, Heinz Schandl, Shinsuke Murakami: Improving the knowledge base on material flow analysis for Asian developing countries: A case study of Lao PDR. **Resources Conservation and Recycling** 12/2017; 127:179-189., [DOI:10.1016/j.resconrec.2017.09.006](https://www.sciencedirect.com/science/article/pii/S0921344917302847) [Download <i class="fas fa-file-pdf"></i>](./pdf/20170831_private-sharing_Improving the knowledge base on MFA for Asian developing countries A case study of Lao PDR.pdf)
+3. **Xaysackda Vilaysouk**, Sandhya Babel: Benefits of Improved Municipal Solid Waste Management on Greenhouse gas Reduction in Luangprabang, Laos. **Environmental Technology** 03/2017; 38(13):1-40., [DOI:10.1080/09593330.2017.1301562](https://iahr.tandfonline.com/doi/abs/10.1080/09593330.2017.1301562) [Download <i class="fas fa-file-pdf"></i>](./pdf/Accepted manuscript_xaysackda_EnvTech.pdf)
+4. Sandhya Babel, **Xaysackda Vilaysouk**: Greenhouse gas emissions from municipal solid waste management in Vientiane, Lao PDR. **Waste Management & Research** 11/2015; 34(1)., [DOI:10.1177/0734242X15615425](https://journals.sagepub.com/doi/abs/10.1177/0734242X15615425) [Download <i class="fas fa-file-pdf"></i>](https://www.researchgate.net/profile/Xaysackda_Vilaysouk2/publication/284728288_Greenhouse_gas_emissions_from_municipal_solid_waste_management_in_Vientiane_Lao_PDR/links/59b0e55daca2728472cf2720/Greenhouse-gas-emissions-from-municipal-solid-waste-management-in-Vientiane-Lao-PDR.pdf)
+
+#### Conference Proceedings 
+
++ Kamrul Islam, **Xaysackda Vilaysouk**, Shinsuke Murakami: ***Environmental impacts of copper mining in Laos: Application of remote sensing and life cycle assessment***, 第１６回「資源・素材・環境」技術と研究の交流会, Tokyo, **Japan**; 08/2019
++ Kamrul Islam, **Xaysackda Vilaysouk**, Shinsuke Murakami: ***Integrating remote sensing and life cycle assessment to quantify the environmental impacts of mining: The case of Lao PDR***, 10th International Conference on Industrial Ecology, Tsinghua University, Beijing, China; 07/2019
++ **Xaysackda Vilaysouk**, Alessio Miatto, Heinz Schandl, Shinsuke Murakami: ***Material Stock of Developing Nation, Lao PDR***, 10th International Conference on Industrial Ecology, Tsinghua University, Beijing, China; 07/2019
++ Kamrul Islam, **Xaysackda Vilaysouk**, Shinsuke Murakami: ***Exploring the relationship between total in-use stock and satellite nighttime light data: A case study from Lao PDR***, The 66th Conference of the Remote Sensing Society of Japan, Toyko, **Japan**; 07/2019
++ **Xaysackda Vilaysouk**, Kamrul Islam, James West, Heinz Schandl, Shinsuke Murakami: ***Environmental impacts of Open-pit Copper mining in Lao PDR: A Life Cycle Assessment***, the EcoBalance 2018, Tokyo, **Japan**; 10/2018 
++ **Xaysackda Vilaysouk**, Shinsuke Murakami, Heinz Schandl : ***The Industrial Ecology Knowledge to support Sustainable Development Goals in ASEAN: Opportunities and challenges***. The Gordon Research Conference on Industrial Ecology, Les Diablerets, Switzerland; 05/2018
++ **Xaysackda Vilaysouk**, Shinsuke Murakami, Heinz Schandl : ***Assessing a Physical Dimension of Lao Economy through Material Flow Analysis***. The 9th biennial conference of the International Society for Industrial Ecology (ISIE) and the 25th annual conference of the International Symposium on Sustainable Systems and Technology (ISSST), Chicago, USA; 07/2017
++ **Xaysackda Vilaysouk**, Shinsuke Murakami: ***Material flow analysis for sustainable resource use in Lao PDR: the potentials and challenges***. the International Society for Industrial Ecology (ISIE) 12th Socio-Economic Metabolism section conference and 5th Asia-Pacific conference, Nagoya University, Nagoya, **Japan**; 09/2016
++ **Xaysackda Vilaysouk**, Sandhya Babel: ***Co-Benefits of Improved Municipal Solid Waste Management in Luangprabang, Lao PDR***. the International Conference on Solid Waste 2015: Knowledge Transfer for Sustainable Resource Management, Hong Kong Convention and Exhibition Centre, Hong Kong SAR, China; 05/2015, DOI:10.13140/RG.2.1.2162.0565
++ **Xaysackda Vilaysouk**, Sandhya Babel: ***Estimation of Greenhouse Gas Emission from Landfill in Luangprabang, Lao PDR***. the 8th GMSARN International Conference 2013 on “Green Growth in GMS: Energy, Environment and Social Issues, Mandalay, Burma; 12/2013, DOI:10.13140/2.1.3358.8000
++ **Xaysackda Vilaysouk**, Sandhya Babel: ***Comparison of Potential Greenhouse Gas Emission from Municipal Solid Waste Disposal Site in Savannakhet and Champasak, Lao PDR***. The 6th ACEC and The 6th AEEC, Bangkok, Thailand; 11/2013, DOI:10.13140/2.1.5062.7368

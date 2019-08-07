@@ -1,0 +1,13 @@
+---
+title: "Research Topic"
+---
+
+### The Current Research Topic ###
+
+* Material/Stock Flow Anlysis
+* Circular Economy
+* Urban Mining
+* Innovations for Sustainable Resource Management 
+
+<dvi>
+</dvi>
