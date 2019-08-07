@@ -1,0 +1,8 @@
+---
+title: "About me"
+---
+
+## Under Construction ##
+```{r, out.width='10%', fig.align='left', echo=FALSE}
+knitr::include_graphics('2019-07-30.png')
+```

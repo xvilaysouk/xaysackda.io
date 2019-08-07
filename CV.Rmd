@@ -1,0 +1,12 @@
+---
+title: "Xaysackda's CV"
+
+---
+
+```{r, out.width='15%', fig.align='left', echo=FALSE}
+knitr::include_graphics('2019-07-30.png')
+```
+
+<a href="CV.pdf#" class="download" title="Download CV as PDF">Download CV</a>			
+
+Please feel free to contact me!
