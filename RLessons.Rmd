@@ -3,7 +3,7 @@ title: "R Tutorial"
 author: "X.Vilaysouk"
 date: "8/6/2019"
 ---
-```{r, out.width='10%', fig.align='center', echo=FALSE}
+```{r, out.width='20%', fig.align='center', echo=FALSE}
 knitr::include_graphics('2019-07-30.png')
 ```
 

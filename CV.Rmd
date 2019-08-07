@@ -2,7 +2,7 @@
 title: "Xaysackda's CV and Publications"
 ---
 
-```{r, out.width='15%', fig.align='center', echo=FALSE}
+```{r, out.width='25%', fig.align='center', echo=FALSE}
 knitr::include_graphics('./img/xvil.jpg')
 ```
 <style>
