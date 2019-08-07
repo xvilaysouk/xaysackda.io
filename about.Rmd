@@ -1,8 +1,9 @@
 ---
 title: "About me"
 ---
-```{r, out.width='10%', fig.align='center', echo=FALSE}
-knitr::include_graphics('./img/ritsumei-logo.png')
+
+```{r, out.width='40%', fig.align='center', echo=FALSE}
+knitr::include_graphics('./img/xvil.jpg')
 ```
 
 <div align="center">
