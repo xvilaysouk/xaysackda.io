@@ -3,8 +3,14 @@ title: "Xaysackda's CV and Publications"
 ---
 
 ```{r, out.width='15%', fig.align='center', echo=FALSE}
-knitr::include_graphics('2019-07-30.png')
+knitr::include_graphics('./img/xvil.jpg')
 ```
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+
 
 <div align="center">
 Xaysackda VILAYSOUK (PhD) | Senior Researcher </br>
@@ -14,11 +20,15 @@ A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.
 
 	
 
-# Education
+# **Education**
 
-+ Ph.D in Systems Innovation from Graduate School of Engineering/The University of Tokyo, Tokyo, Japan  04/2016 – 03/2019
-+ M.Sc in Environmental and Technology from Sirindhorn International Institute of Technology (SIIT)/Thammasat University, Pathum Thani, Thailand  10/2012 - 01/2015
-+ B.Eng in Environmental Engineering from Faculty of Engineering/National University of Laos, Vientiane, Lao PDR   10/2007 – 08/2012
++ **Ph.D in Systems Innovation** from Graduate School of Engineering/The University of Tokyo, Tokyo, Japan  04/2016 – 03/2019
++ **M.Sc in Environmental and Technology** from Sirindhorn International Institute of Technology (SIIT)/Thammasat University, Pathum Thani, Thailand  10/2012 - 01/2015
++ **B.Eng in Environmental Engineering** from Faculty of Engineering/National University of Laos, Vientiane, Lao PDR   10/2007 – 08/2012
+
+# **Employment**
+
+- 06/2019 ~ Now | Senior Researcher, Ritsumeikan University, Shiga, Japan
 
 # __Publications__ 
 #### Journals Articles

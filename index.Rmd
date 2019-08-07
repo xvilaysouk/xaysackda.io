@@ -1,17 +1,21 @@
 ---
-title: "This is my Personal Website"
 ---
 ```{r, out.width='100%', fig.align='center', echo=FALSE}
-knitr::include_graphics('./img/landing.jpg')
+knitr::include_graphics('./img/landing2 .jpg')
 ```
 
+
+
+```{r, out.width='25%', fig.align='center', echo=FALSE}
+knitr::include_graphics('./img/xvil.jpg')
+```
 <div align="center">
 ## Welcome to my personal website !
 ## ຍິນດີຕ້ອນຮັບສູ່ເວັປໄຊທ໌ສ່ວນຕົວຂອງໄຊສັກດາ
-</div>
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
 
-<div align="center">
-Xaysackda VILAYSOUK (PhD) | Senior Researcher </br>
-A: College of Science and Engineering, [Ritsumeikan University](http://ritsumei.ac.jp) </br>
-1-1-1 Noji-Higashi, Kusatsu, Shiga 525-8577 Japan </br>
 </div>
