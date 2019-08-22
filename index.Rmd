@@ -4,8 +4,6 @@ title: ""
 
 
 <div align="center">
-## Welcome to my personal website !
-## ຍິນດີຕ້ອນຮັບສູ່ເວັປໄຊທ໌ສ່ວນຕົວຂອງໄຊສັກດາ
 
 ```{r, out.width='100%', fig.align='center', echo=FALSE}
 knitr::include_graphics('./img/banner.png')
