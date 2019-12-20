@@ -16,6 +16,9 @@ navbar:
     - text: "R Lessons"
       icon: fa-chalkboard
       href: RLessons.html
+    - text: "Viz"
+      icon: fa-chalkboard
+      href: Viz.html
     - text: "About"
       icon: fa-at 
       href: about.html
