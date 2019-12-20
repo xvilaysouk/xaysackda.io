@@ -13,9 +13,6 @@ navbar:
     - text: "Research Topics"
       icon: fa-book
       href: research.html
-    - text: "R Lessons"
-      icon: fa-chalkboard
-      href: RLessons.html
     - text: "Viz"
       icon: fa-chalkboard
       href: Viz.html
