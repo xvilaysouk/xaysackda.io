@@ -15,7 +15,3 @@ E: xaysackda.vls@gmail.com </br>
 W: http://www.ritsumei.ac.jp/se/rv/hashimoto/index_e.html
 </div>
 
-```{r}
-knitr::raw_html("./pop_plotly.html")
-```
-
