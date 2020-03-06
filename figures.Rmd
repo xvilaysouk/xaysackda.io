@@ -1,0 +1,66 @@
+---
+title: "Habits"
+output:
+  html_document:
+    code_folding: hide
+    toc: true
+    toc_float:
+      collapsed: True
+      smooth_scroll: true
+---
+
+
+## H2 {.tabset .tabset-fade .tabset-pills}
+
+### H3
+
+#### H4
+
+## Quarterly Results {.tabset .tabset-fade .tabset-pills}
+
+### Figure 1
+
+```{r,warning = F, message=FALSE}
+library(ggplot2)
+library(plotly)
+dt = rnorm(100,0,1)
+dt2 = (1:100)
+
+dtt <- data.frame(cbind(x=dt,y=dt2))
+
+ggplotly(ggplot(dtt,aes(x,y)) + geom_point())
+
+```
+
+
+### Figure 2
+```{r,warning = F, message=FALSE}
+library(ggplot2)
+library(plotly)
+dt = rnorm(100,0,1)
+dt2 = (1:100)
+
+dtt <- data.frame(cbind(x=dt,y=dt2))
+
+ggplotly(ggplot(dtt,aes(x,y)) + geom_line())
+
+```
+
+
+
+
+### Figure 3
+```{r,warning = F, message=FALSE}
+library(ggplot2)
+library(plotly)
+dt = rnorm(100,0,1)
+dt2 = (1:100)
+
+dtt <- data.frame(cbind(x=dt,y=dt2))
+
+ggplotly(ggplot(dtt,aes(x,y)) + geom_line())
+knitr::include_url("./pop_plotly.html", height = "500 px")
+
+```
+
+

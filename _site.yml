@@ -1,14 +1,14 @@
 name: "Xaysackda Vilaysouk RMarkdown"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "X. Vilaysouk"                             # CHANGE HERE 
+  title:                            # CHANGE HERE 
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
     - text: "CV and Publications"
-      icon: fa-book
+      icon: fa-user-astronaut
       href: CV.html
     - text: "Research Topics"
       icon: fa-book
@@ -16,10 +16,10 @@ navbar:
     - text: "Viz"
       icon: fa-chalkboard
       href: Viz.html
-    - text: "About"
-      icon: fa-at 
-      href: about.html
   right:
+    - text: "RSever"
+      icon: fa-terminal
+      href: https://bit.ly/36wH82Q      # CHANGE HERE 
     - text: "Google Scholar"
       icon: fa-graduation-cap   
       href: https://scholar.google.co.jp/citations?hl=en&user=uFI9dkMAAAAJ      # CHANGE HERE 
