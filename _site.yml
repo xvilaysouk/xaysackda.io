@@ -1,32 +1,38 @@
 name: "Xaysackda Vilaysouk RMarkdown"                                # CHANGE HERE 
 output_dir: "."
-navbar:
-  title:                            # CHANGE HERE 
+favicon: img/2019-07-30.png
+navbar:                           #CHANGE HERE 
+  title: 
+  logo:
+    image: img/2019-07-30.png
+    href: https://www.rstudio.com
   type: inverse
   left:
-    - text: "Home"
+    - text: 
       icon: fa-home
       href: index.html
-    - text: "CV and Publications"
+    - text: "CV & Pubs"
       icon: fa-user-astronaut
       href: CV.html
     - text: "Research Topics"
-      icon: fa-book
+      icon: fa-rocket
       href: research.html
-    - text: "Viz"
-      icon: fa-chalkboard
-      href: Viz.html
+    - text: "Data and Code"
+      icon: fa-code-branch
+      href: dataandcode.html
   right:
-    - text: "RSever"
+    - text:
       icon: fa-terminal
-      href: https://bit.ly/36wH82Q      # CHANGE HERE 
-    - text: "Google Scholar"
+      href: https://www.kaggle.com/xaysackdavilaysouk/xvils     # CHANGE HERE 
+    - text: 
       icon: fa-graduation-cap   
       href: https://scholar.google.co.jp/citations?hl=en&user=uFI9dkMAAAAJ      # CHANGE HERE 
-    - text: "GitHub"
+    - text:
       icon: fa-github
       href: https://github.com/xvilaysouk      # CHANGE HERE 
 output:
   html_document:
-    theme: flatly
+    theme: cosmo
     highlight: textmate
+    include:
+      after_body: footer.html

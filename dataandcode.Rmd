@@ -1,0 +1,51 @@
+---
+title: "Data and Code in the Publications"
+author: "X. Vilaysouk"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This page includes the dataset and code used in my publications. There are separate links for differrent articles.
+
+
+# Article 1 : 
+Title: Greenhouse gas emissions from municipal solid waste management in Vientiane, Lao PDR
+
+<div class="col2"> Full citation: Kamrul Islam, __*Xaysackda Vilaysouk*__, Shinsuke Murakami: Integrating remote sensing and life cycle assessment to quantify the environmental impacts of copper-silver-gold mining: A case study from Laos. **Resources, Conservation and Recycling**, 2020 [DOI:/doi.org/10.1016/j.resconrec.2019.104630](https://www.sciencedirect.com/science/article/pii/S0921344919305361) [Download <i class="fas fa-link"></i>] </div>
+
+This is sample
+<div class="col2">  
+```{r , echo=FALSE}
+plot(pressure)
+```
+</div>
+# Article 2 : 
+
+This is sample
+
+
+# Article 3:
+
+This is sample
+
+```{r , echo=FALSE}
+plot(pressure)
+```
+
+
+# Article 4:
+
+This is sample
+
+```{r , echo=FALSE}
+plot(pressure)
+```
+
+
+
