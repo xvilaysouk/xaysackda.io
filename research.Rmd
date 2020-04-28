@@ -8,6 +8,3 @@ title: "Research Topic"
 * Circular Economy
 * Urban Mining
 * Innovations for Sustainable Resource Management 
-
-<dvi>
-</dvi>

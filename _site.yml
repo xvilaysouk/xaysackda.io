@@ -23,7 +23,7 @@ navbar:                           #CHANGE HERE
   right:
     - text:
       icon: fa-terminal
-      href: https://www.kaggle.com/xaysackdavilaysouk/xvils     # CHANGE HERE 
+      href: https://www.kaggle.com/xaysackdavilaysouk/     # CHANGE HERE 
     - text: 
       icon: fa-graduation-cap   
       href: https://scholar.google.co.jp/citations?hl=en&user=uFI9dkMAAAAJ      # CHANGE HERE 
