@@ -8,7 +8,7 @@ navbar:                           #CHANGE HERE
     href: https://www.rstudio.com
   type: inverse
   left:
-    - text: 
+    - text: "Home"
       icon: fa-home
       href: index.html
     - text: "CV & Pubs"
@@ -17,9 +17,9 @@ navbar:                           #CHANGE HERE
     - text: "Research Topics"
       icon: fa-rocket
       href: research.html
-    - text: "Data and Code"
-      icon: fa-code-branch
-      href: dataandcode.html
+    - text: "Laos MFA Dashboard"
+      icon: ion-ios-infinite
+      href: https://xaysackda-vilaysouk.shinyapps.io/LaosMFADashboard/
   right:
     - text:
       icon: fa-terminal
