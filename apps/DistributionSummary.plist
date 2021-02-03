@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>wayha_invest.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+				<key>dateExpires</key>
+				<string>30/1/2022</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>FMDB.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>PhoneNumberKit.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>flutter_keyboard_visibility.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>flutter_secure_storage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>image_picker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>path_provider.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>phone_number.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>5C1869BC745732460649FD369A54E5FA5E90ED9E</string>
+						<key>dateExpires</key>
+						<string>30/1/2022</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>sqflite.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>YM7YK492KR</string>
+						<key>name</key>
+						<string>WAYHA TECHNOLOGY CO.,LTD</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>YM7YK492KR.com.example.wayhaInvest.test01</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>YM7YK492KR</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>YM7YK492KR.com.example.wayhaInvest.test01</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>9ee5d748-c3a4-40ed-b90b-a9163827b66f</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.example.wayhaInvest.test01</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>YM7YK492KR</string>
+				<key>name</key>
+				<string>WAYHA TECHNOLOGY CO.,LTD</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
